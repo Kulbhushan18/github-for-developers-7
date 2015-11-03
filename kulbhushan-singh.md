@@ -1,0 +1,5 @@
+* Name: Kulbhushan Singh  
+* Place: Pune, India  
+* Food: Chicken  
+* Hobby: Sketching  
+* Color: Royal Blue
